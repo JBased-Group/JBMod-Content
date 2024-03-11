@@ -1,0 +1,15 @@
+"LightMappedGeneric"
+{
+"$baseTexture" "eater2"
+"$surfaceprop" "Default"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "7"
+}
+}
+}
+
